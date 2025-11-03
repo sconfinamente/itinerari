@@ -70,5 +70,11 @@
     "paese": "usa",
     "titolo": "California Dream: da San Francisco a San Diego lungo la Highway 1",
     "descrizione": "Un viaggio on the road tra oceano e libertà, lungo la leggendaria Highway 1: scogliere, onde, tramonti e la magia infinita della costa californiana."
+  },
+  {
+    "codice": "parigi-spring",
+    "paese": "fra",
+    "titolo": "Tra le strade di Parigi",
+    "descrizione": "Passeggia tra i vicoli, le piazze e le piccole sorprese di Parigi, lasciandoti sorprendere da arte, luce e atmosfere uniche."
   }
 ]
