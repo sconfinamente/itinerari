@@ -1,4 +1,4 @@
-## 🇹🇭 Thailandia: dal silenzio dei templi al profumo dell’oceano
+## Thailandia: dal silenzio dei templi al profumo dell’oceano
 
 ### **Tra templi d’oro, giungle e mare cristallino: un viaggio che racchiude l’anima della Thailandia**
 
@@ -47,3 +47,4 @@ Da qui puoi esplorare:
 ### **Un viaggio che unisce mondi**
 Dalla **frenesia urbana** alla **spiritualità delle montagne**, fino alla **pace del mare**, questo itinerario in Thailandia è un racconto di contrasti e armonie.  
 Ogni tappa è una sfumatura diversa dello stesso sorriso thailandese, quello che ti resta nel cuore molto dopo il ritorno. 🌅  
+
