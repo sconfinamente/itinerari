@@ -1,9 +1,10 @@
 ## I nostri viaggi
 
-Ogni viaggio è un piccolo racconto da vivere fino in fondo.  
+Ogni viaggio è un piccolo racconto da vivere fino in fondo.    
+
 Con **Sconfinamente** vogliamo portarvi nei luoghi che ci hanno colpito, tra **panorami mozzafiato**, **angoli nascosti** e **tradizioni locali** che spesso sfuggono allo sguardo frettoloso.
 
-Dai **borghi suggestivi dell’Italia** ai **mercati e strade delle città straniere**, ogni esperienza ci ha insegnato qualcosa di nuovo: sul mondo, sulle persone e su noi stesse.  
+Dai **borghi suggestivi dell’Italia** ai **mercati e strade delle città straniere**, ogni esperienza ci ha insegnato qualcosa di nuovo: sul mondo, sulle persone e su noi stesse.
 
 Sul nostro sito troverete **itinerai**, **esperienze autentiche** e **consigli pratici** per vivere ogni destinazione con curiosità e leggerezza, anche con tempi o budget ridotti.  
 
@@ -13,4 +14,27 @@ Seguiteci sui social e scoprirete i flashback dei nostri viaggi: emozioni autent
 
 *Preparate la valigia: il prossimo viaggio inizia con **Sconfinamente.***  
 
-[Viaggia nei nostri itinerari](itinerari)
+  
+<div style="
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  gap: 24px; 
+  padding: 16px 0;
+">
+
+  <a href="https://www.tiktok.com/@sconfinamente" target="_blank" style="text-decoration: none !important;">
+    <img src="https://www.sconfinamente.it/assets/images/social-icon-tiktok.svg" alt="TikTok" width="32">
+  </a>
+
+  <a href="https://instagram.com/@sconfinamente" target="_blank" style="text-decoration: none !important;">
+    <img src="https://www.sconfinamente.it/assets/images/social-icon-instagram.jpg" alt="Instagram" width="32">
+  </a>
+
+  <a href="https://www.facebook.com/sconfinamentetravel" target="_blank" style="text-decoration: none !important;">
+    <img src="https://www.sconfinamente.it/assets/images/social-icon-facebook.svg" alt="Facebook" width="32">
+  </a>
+
+</div>
+
+
