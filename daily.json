@@ -103,5 +103,10 @@
     "message": "Il mare è un acquario a cielo aperto, il deserto un silenzio che parla.  A Sharm el-Sheikh, tra la barriera corallina di Ras Mohamed e un tè caldo sotto le stelle del Sinai.",
     "paese": "egitto",
     "codice": "sharm-el-sheik"
+  },
+  {
+    "message": "Tra il ritmo del merengue e il profumo del mare, a Santo Domingo la storia coloniale si mescola ai sorrisi dei Caraibi.",
+    "paese": "caraibi",
+    "codice": "santo-domingo"
   }
 ]

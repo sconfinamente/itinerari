@@ -1,5 +1,6 @@
 [
   { "codice": "canada", "label": "Canada" }, 
+  { "codice": "caraibi", "label": "Caraibi" }, 
   { "codice": "uae", "label": "Emirati Arabi Uniti" },
   { "codice": "egitto", "label": "Egitto" },
   { "codice": "francia", "label": "Francia" },

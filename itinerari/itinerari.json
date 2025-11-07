@@ -124,5 +124,11 @@
     "paese": "egitto",
     "titolo": "Sharm el-Sheikh: tra deserto e barriera corallina",
     "descrizione": "Tra le acque turchesi del Mar Rosso e il silenzio del Sinai, Sharm el-Sheikh unisce relax, avventura e misticismo."
+  },
+  {
+    "codice": "santo-domingo",
+    "paese": "caraibi",
+    "titolo": "Santo Domingo: tra ritmo caraibico e storia coloniale",
+    "descrizione": "Cuore pulsante dei Caraibi, Santo Domingo unisce spiagge di sogno, musica che vibra nell’aria e un’anima coloniale che racconta la nascita del Nuovo Mondo."
   }
 ]
