@@ -1,4 +1,4 @@
-## Sharm el-Sheikh: tra deserto e barriera corallina
+## 🇪🇬 Sharm el-Sheikh: tra deserto e barriera corallina
 
 Sospesa tra il blu del mare e l’oro del deserto, **Sharm el-Sheikh** è un mosaico di emozioni contrastanti.  
 
