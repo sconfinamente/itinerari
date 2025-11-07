@@ -112,5 +112,11 @@
     "paese": "germania",
     "titolo": "Berlino: muri, musica e libertà",
     "descrizione": "Tra resti del passato e creatività senza confini, Berlino è un viaggio tra storia, arte urbana e vita che pulsa ovunque."
+  },
+  {
+    "codice": "chicago",
+    "paese": "usa",
+    "titolo": "Chicago, the windy city",
+    "descrizione": "Tra architettura mozzafiato, lungolago e il celebre Navy Pier, Chicago è un viaggio tra skyline iconici e vita urbana vibrante."
   }
 ]

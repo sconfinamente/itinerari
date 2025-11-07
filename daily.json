@@ -93,5 +93,10 @@
     "message": "Tra la storia del Muro e la libertà dei suoi quartieri alternativi, ogni muro racconta un passato, ogni vicolo pulsa di creatività e vita urbana. Lasciati trasportare dall'anima di Berlino.",
     "paese": "germania",
     "codice": "berlino"
+  },
+  {
+    "message": "Lasciati portare dal vento della famosa Windy city, la meravigliosa Chicago, un viaggio tra skyline mozzafiato e vita urbana vibrante.",
+    "paese": "usa",
+    "codice": "chicago"
   }
 ]
