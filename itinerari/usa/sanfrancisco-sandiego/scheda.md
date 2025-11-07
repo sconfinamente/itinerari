@@ -1,4 +1,4 @@
-## California Dream: da San Francisco a San Diego lungo la Highway 1
+## 🇺🇸 California Dream: da San Francisco a San Diego lungo la Highway 1
 
 Ci sono viaggi che restano dentro come un profumo, come il suono delle onde che accompagna ogni curva.  
 Da **San Francisco** a **San Diego**, la **Highway 1** è molto più di una strada: è un’esperienza, un lento racconto di **mare, vento e luce**.
