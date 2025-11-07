@@ -73,5 +73,10 @@
     "message": "Dal silenzio dei templi al profumo dell’oceano, la Thailandia ti accoglie con grazia.",
     "paese": "thailandia",
     "codice": "bangkok-chiangrai"
+  },
+  {
+    "message": "Perditi tra i canali di Amsterdam, dove il vento profuma di pane caldo e tulipani, ogni ponte è una fotografia, ogni bicicletta una storia in movimento.",
+    "paese": "olanda",
+    "codice": "amsterdam"
   }
 ]
