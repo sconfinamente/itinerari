@@ -1,4 +1,4 @@
-## Amsterdam: tra canali, biciclette e riflessi dorati
+## 🇳🇱 Amsterdam: tra canali, biciclette e riflessi dorati
 
 Ci sono città che sembrano disegnate per essere percorse piano, con il vento che profuma di pane caldo e tulipani. **Amsterdam** è una di queste.  
 Una rete di **canali che scintillano al tramonto**, biciclette che sfrecciano leggere e finestre aperte sulla quotidianità di chi vive senza fretta.
