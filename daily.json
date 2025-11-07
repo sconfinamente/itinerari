@@ -88,5 +88,10 @@
     "message": "Camminiamo tra i vicoli di Cracovia, dove la storia sussurra e la memoria si fa silenzio.",
     "paese": "polonia",
     "codice": "cracovia-auschwitz"
+  },
+  {
+    "message": "Tra la storia del Muro e la libertà dei suoi quartieri alternativi, ogni muro racconta un passato, ogni vicolo pulsa di creatività e vita urbana. Lasciati trasportare dall'anima di Berlino.",
+    "paese": "germania",
+    "codice": "berlino"
   }
 ]

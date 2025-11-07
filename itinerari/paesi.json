@@ -1,7 +1,8 @@
 [
   { "codice": "canada", "label": "Canada" }, 
   { "codice": "uae", "label": "Emirati Arabi Uniti" },
-  { "codice": "francia", "label": "Francia" },  
+  { "codice": "francia", "label": "Francia" },
+  { "codice": "germania", "label": "Germania" },
   { "codice": "uk", "label": "Inghilterra" },
   { "codice": "maldive", "label": "Maldive" },
   { "codice": "marocco", "label": "Marocco" },
@@ -11,4 +12,3 @@
   { "codice": "thailandia", "label": "Thailandia" },
   { "codice": "usa", "label": "Stati Uniti" }  
 ]
-
