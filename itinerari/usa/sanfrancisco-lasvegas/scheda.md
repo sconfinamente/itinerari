@@ -1,4 +1,4 @@
-## California Dream: da San Francisco a Las Vegas tra giganti, deserti e città fantasma
+## 🇺🇸 California Dream: da San Francisco a Las Vegas tra giganti, deserti e città fantasma
 
 Ci sono viaggi che non sono solo spostamenti, ma **trasformazioni**.  
 Partire da **San Francisco**, con il vento dell’oceano e le case color pastello che si arrampicano sulle colline, è come chiudere un libro e aprirne un altro: quello della **California più selvaggia e profonda**.
