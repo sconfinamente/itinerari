@@ -30,6 +30,12 @@
     "descrizione": "Scopri Marrakech, tra i profumi del souk, i colori della Medina, i palazzi moreschi e il fascino senza tempo del deserto ai confini della città rossa."
   },
   {
+    "codice": "amsterdam",
+    "paese": "olanda",
+    "titolo": "Amsterdam: tra canali, biciclette e riflessi dorati",
+    "descrizione": "Un viaggio lento tra le vie d’acqua di Amsterdam, dove ogni ponte racconta una storia e ogni vetrina riflette un frammento di libertà."
+  },
+  {
     "codice": "transilvania",
     "paese": "romania",
     "titolo": "Transilvania, tra castelli e leggende",
