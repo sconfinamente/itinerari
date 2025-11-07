@@ -83,5 +83,10 @@
     "message": "Da San Francisco a Las Vegas, tra giganti silenziosi, deserti che bruciano e città fantasma che sussurrano ancora storie di polvere e sogni.",
     "paese": "usa",
     "codice": "sanfrancisco-lasvegas"
+  },
+  {
+    "message": "Camminiamo tra i vicoli di Cracovia, dove la storia sussurra e la memoria si fa silenzio.",
+    "paese": "polonia",
+    "codice": "cracovia-auschwitz"
   }
 ]
