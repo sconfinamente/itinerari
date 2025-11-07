@@ -1,4 +1,4 @@
-## Cracovia: memoria, musica e mistero
+## 🇵🇱 Cracovia: memoria, musica e mistero
 
 C’è qualcosa di sospeso nell’aria di **Cracovia**.  
 Passeggiando per la **Piazza del Mercato**, tra carrozze, chiese gotiche e il profumo di pierogi, si respira un’eleganza antica, malinconica e viva.  
