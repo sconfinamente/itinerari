@@ -2,7 +2,7 @@
 
 Ogni viaggio è un piccolo racconto da vivere fino in fondo.    
 
-Con **Sconfinamente** vogliamo portarvi nei luoghi che ci hanno colpito, tra **panorami mozzafiato**, **angoli nascosti** e **tradizioni locali** che spesso sfuggono allo sguardo frettoloso.
+Con **SconfinaMente** vogliamo portarvi nei luoghi che ci hanno colpito, tra **panorami mozzafiato**, **angoli nascosti** e **tradizioni locali** che spesso sfuggono allo sguardo frettoloso.
 
 Dai **borghi suggestivi dell’Italia** ai **mercati e strade delle città straniere**, ogni esperienza ci ha insegnato qualcosa di nuovo: sul mondo, sulle persone e su noi stesse.
 
@@ -12,5 +12,5 @@ Che vogliate esplorare un **weekend tra colline** o partire per **avventure oltr
 
 Seguiteci sui social e scoprirete i flashback dei nostri viaggi: emozioni autentiche, luoghi straordinari e tanta ispirazione per partire.
 
-*Preparate la valigia: il prossimo viaggio inizia con **Sconfinamente.***  
+*Preparate la valigia: il prossimo viaggio inizia con **SconfinaMente.***  
 

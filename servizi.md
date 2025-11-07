@@ -2,7 +2,7 @@
 
 Creiamo viaggi su misura che trasformano desideri e sogni in esperienze indimenticabili, dove ogni dettaglio parla di te.
 
-**Sconfinamente** non è solo organizzare un viaggio: è costruire un’esperienza unica, pensata per rispecchiare la tua personalità, i tuoi interessi e il tuo ritmo.  
+**SconfinaMente** non è solo organizzare un viaggio: è costruire un’esperienza unica, pensata per rispecchiare la tua personalità, i tuoi interessi e il tuo ritmo.  
 Ogni itinerario è studiato nei minimi dettagli, per offrirti **comfort, scoperta e autenticità**, senza lasciare nulla al caso.  
 
 #### I servizi che offriamo  
@@ -19,14 +19,14 @@ Ti consigliamo e guidiamo nella scelta di tour, visite guidate, escursioni e mom
 ##### Supporto continuo
 Siamo sempre a tua disposizione prima, durante e dopo il viaggio, per consigli, aggiornamenti e assistenza, garantendo serenità e sicurezza.
 
-Un viaggio progettato con **Sconfinamente** non è mai uguale a un altro: è un’avventura personale, emozionante, pensata solo per te.  
+Un viaggio progettato con **SconfinaMente** non è mai uguale a un altro: è un’avventura personale, emozionante, pensata solo per te.  
 Ogni itinerario diventa un racconto da vivere, un’esperienza da ricordare, un pezzo di mondo che porta il tuo nome.
 
 ---
 
 ## Come lavoriamo
 
-Il nostro approccio a **Sconfinamente** è pensato per rendere il viaggio non solo unico, ma anche **fluido e piacevole** dall’inizio alla fine.  
+Il nostro approccio a **SconfinaMente** è pensato per rendere il viaggio non solo unico, ma anche **fluido e piacevole** dall’inizio alla fine.  
 Non ci limitiamo a costruire itinerari: accompagniamo ogni fase del tuo percorso di scoperta, con un metodo chiaro e strutturato.
 
 1. **Ascolto attento dei tuoi desideri**  
@@ -41,7 +41,7 @@ Non ci limitiamo a costruire itinerari: accompagniamo ogni fase del tuo percorso
 4. **Esperienza immersiva e senza stress**  
    Lavoriamo affinché tu possa vivere ogni momento del viaggio in serenità, senza preoccupazioni logistiche, concentrandoti solo sulla scoperta, sulle emozioni e sui ricordi che porterai con te.
 
-Con questo approccio, un viaggio firmato **Sconfinamente** diventa un’esperienza davvero **su misura**, in cui ogni dettaglio è pensato per valorizzare le tue passioni e offrirti emozioni autentiche.
+Con questo approccio, un viaggio firmato **SconfinaMente** diventa un’esperienza davvero **su misura**, in cui ogni dettaglio è pensato per valorizzare le tue passioni e offrirti emozioni autentiche.
 
 ---
 
