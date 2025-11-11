@@ -1,4 +1,4 @@
-# Tra le strade di Parigi
+## 🇫🇷 Tra le strade di Parigi
 
 Parigi accoglie chi la visita con un respiro leggero e profumato, tra l’eco delle campane di **Notre-Dame** e il lento scorrere della Senna. Passeggiando tra i ponti e i vicoli del **Quartiere Latino**, ci si sente sospesi tra storia e quotidianità, tra caffè che invitano a fermarsi e librerie che raccontano mondi lontani.
 

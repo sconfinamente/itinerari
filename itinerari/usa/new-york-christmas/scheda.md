@@ -1,4 +1,4 @@
-## Natale a New York, luci, mercatini e magia
+## 🇺🇸 Natale a New York, luci, mercatini e magia
 
 **Vivi la magia del Natale a New York tra luci scintillanti, mercatini natalizi e atmosfere da film nella Grande Mela.**
 

@@ -1,4 +1,4 @@
-## Inghilterra del Sud
+## 🇬🇧 Inghilterra del Sud
 
 Partendo da **Londra**, questo itinerario in auto ti porta alla scoperta del fascino del Sud dell’Inghilterra, tra castelli storici, villaggi pittoreschi, coste iconiche e monumenti millenari. Ogni tappa offre un mix perfetto di storia, natura e cultura, rendendo il viaggio un’esperienza completa e indimenticabile.
 
