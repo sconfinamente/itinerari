@@ -22,9 +22,3 @@ Dedica qualche ora a **Yas Island**: è il luogo perfetto per rilassarsi, divert
                 alt="Abu Dhabi, modernità e tradizione"/>
     </a>
 </div>
-
-<!--div class="flickr-embed-wrapper">
-    <iframe 
-        src="https://www.flickr.com/photos/203856126@N06/albums/72177720330382383/player/" 
-        frameborder="0" allowfullscreen></iframe>
-</div-->
